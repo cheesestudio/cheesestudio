@@ -52,17 +52,9 @@
 
 ## 📦 Featured Projects
 
-<p align="left">
-  <a href="https://github.com/cheesestudio/VRChat-Pool-table-15-red-snooker-Pyramid-Chinese-8-MS-VRCSA-Billiards">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=cheesestudio&repo=VRChat-Pool-table-15-red-snooker-Pyramid-Chinese-8-MS-VRCSA-Billiards&theme=github_dark&bg_color=0d1117&title_color=64ffda&text_color=c9d1d9" />
-  </a>
-</p>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cheesestudio&repo=VRChat-Pool-table-15-red-snooker-Pyramid-Chinese-8-MS-VRCSA-Billiards&theme=dark&bg_color=1a1b26&title_color=7dcfff&text_color=94a2b8&border_color=414868)](https://github.com/cheesestudio/VRChat-Pool-table-15-red-snooker-Pyramid-Chinese-8-MS-VRCSA-Billiards)
 
-<p align="left">
-  <a href="https://github.com/cheesestudio/DG-LAB-VRChat-Cheese-Club">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=cheesestudio&repo=DG-LAB-VRChat-Cheese-Club&theme=github_dark&bg_color=0d1117&title_color=64ffda&text_color=c9d1d9" />
-  </a>
-</p>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cheesestudio&repo=DG-LAB-VRChat-Cheese-Club&theme=dark&bg_color=1a1b26&title_color=7dcfff&text_color=94a2b8&border_color=414868)](https://github.com/cheesestudio/DG-LAB-VRChat-Cheese-Club)
 
 ---
 
@@ -80,16 +72,19 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cheesestudio&theme=github_dark&bg_color=0d1117&title_color=64ffda&text_color=c9d1d9&border_color=30363d&show_icons=true&icon_color=64ffda&include_all_commits=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheesestudio&theme=github_dark&bg_color=0d1117&title_color=64ffda&text_color=c9d1d9&layout=compact&langs_count=8" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cheesestudio&theme=tokyonight&bg_color=1a1b26&title_color=7dcfff&text_color=94a2b8&border_color=414868&show_icons=true&icon_color=7dcfff&include_all_commits=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheesestudio&theme=tokyonight&bg_color=1a1b26&title_color=7dcfff&text_color=94a2b8&border_color=414868&layout=compact&langs_count=6" />
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Profile Trophy
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cheesestudio&theme=monokai&no-bg=true&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=cheesestudio&theme=tokyonight&no-bg=true&column=4" />
 </div>
 
 ---
@@ -97,7 +92,7 @@
 ## 🔥 Contribution Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cheesestudio&theme=monokai&background=0d1117&stroke=64ffda&ring=64ffda&fire=64ffda&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&type=profile" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cheesestudio&theme=tokyonight&background=1a1b26&stroke=7dcfff&ring=7dcfff&fire=7dcfff&currStreakNum=94a2b8&sideNums=94a2b8&currStreakLabel=94a2b8&sideLabels=94a2b8&dates=94a2b8&type=profile" />
 </div>
 
 ---
@@ -105,7 +100,7 @@
 ## 🗓️ Activity
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=cheesestudio&theme=github-dark&bg_color=0d1117&color=64ffda&line=64ffda&point=c9d1d9&area=true&hide_border=false" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=cheesestudio&theme=dracula&bg_color=1a1b26&color=7dcfff&line=7dcfff&point=94a2b8&area=true&hide_border=false" />
 </div>
 
 ---
@@ -132,7 +127,7 @@
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/cheesestudio/cheesestudio/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 
 </div>
 
