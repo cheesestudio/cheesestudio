@@ -65,52 +65,54 @@ I'm **Cheese Studio**, a Unity Game Developer specializing in VRChat world creat
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cheesestudio&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&show_icons=true&icon_color=58a6ff&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheesestudio&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cheesestudio&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&show_icons=true&icon_color=58a6ff&include_all_commits=true&cache_bust=1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheesestudio&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact&cache_bust=1" />
+</p>
 
 ---
 
 ## 🏆 Profile Trophy
 
-<div align="center">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=cheesestudio&theme=monokai&no-bg=true&column=4" />
-</div>
+</p>
 
 ---
 
 ## 🔥 GitHub Streak
 
-<div align="center">
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=cheesestudio&theme=monokai&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" />
-</div>
+</p>
 
 ---
 
 ## 🗓️ Activity Graph
 
-<div align="center">
+<p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=cheesestudio&theme=dracula&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true" />
-</div>
+</p>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<div align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
-</div>
+</p>
 
 ---
 
-<div align="center">
+## 📈 Profile Stats
 
-![Visitors](https://visitor-badge.deta.dev?id=cheesestudio&spec=flat&fire=true&label=visitors&color=58a6ff&labelColor=0d1117&background=transparent)
+<p align="center">
+  <img src="https://visitor-badge.deta.dev?id=cheesestudio&spec=flat&fire=true&label=Profile%20Views&color=58a6ff&labelColor=0d1117&background=transparent" />
+  <img src="https://img.shields.io/github/followers/cheesestudio?style=for-the-badge&color=58a6ff&labelColor=0d1117" />
+</p>
 
-*Built with ❤️ by [Cheese Studio](https://github.com/cheesestudio)*
+---
 
-</div>
+<p align="center">
+  <i>Built with ❤️ by <a href="https://github.com/cheesestudio">Cheese Studio</a></i>
+</p>
