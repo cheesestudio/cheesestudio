@@ -27,11 +27,25 @@ I'm **Cheese Studio**, a Unity Game Developer specializing in VRChat world creat
 
 ## 🛠️ Tech Stack
 
-| Category | Technologies |
-|----------|-------------|
-| **Languages** | C#, JavaScript, TypeScript, Python, HTML/CSS |
-| **Engines** | Unity, VRChat (Udon) |
-| **Tools** | Node.js, VS Code, Git |
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/VRChat-FF6B00?style=for-the-badge&logo=vrchat&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Repos-15-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Stars-35+-F4B400?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Forks-3-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Followers-0-181717?style=for-the-badge&logo=github" />
+</p>
 
 ---
 
@@ -41,75 +55,65 @@ I'm **Cheese Studio**, a Unity Game Developer specializing in VRChat world creat
 **VRChat-Pool-table** | ⭐ 29
 > Full-featured VRChat billiards table supporting Snooker, Pyramid, and Chinese 8-ball
 
-[![Badge](https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/cheesestudio/VRChat-Pool-table-15-red-snooker-Pyramid-Chinese-8-MS-VRCSA-Billiards)
+<p>
+  <img src="https://img.shields.io/badge/Language-C%23-239120?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stars-29-F4B400?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VRChat-FF6B00?style=for-the-badge" />
+</p>
+
+[![View Project](https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/cheesestudio/VRChat-Pool-table-15-red-snooker-Pyramid-Chinese-8-MS-VRCSA-Billiards)
 
 ### 🎮 DG-LAB VRChat Controller
 **DG-LAB-VRChat-Cheese-Club** | ⭐ 1
 > Hardware controller bridging VRChat with DG-LAB devices
 
-[![Badge](https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/cheesestudio/DG-LAB-VRChat-Cheese-Club)
+<p>
+  <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VRChat-FF6B00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hardware-DG--LAB-0078D4?style=for-the-badge" />
+</p>
+
+[![View Project](https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/cheesestudio/DG-LAB-VRChat-Cheese-Club)
 
 ---
 
 ## ⚡ More Projects
 
-| Project | Description |
-|---------|-------------|
-| [bullet-hell-game](https://github.com/cheesestudio/bullet-hell-game) | Cyberpunk bullet hell boss rush game |
-| [Tournament-Maker](https://github.com/cheesestudio/Tournament-Maker-system-for-vrchat) | VRChat tournament bracket system |
-| [Gobang-for-VRChat](https://github.com/cheesestudio/Gobang-for-VRChat) | Gobang game for VRChat |
-| [bullet-hell-generator](https://github.com/cheesestudio/bullet-hell-generator) | OMC Skill for generating bullet hell games |
-| [FemboyExam](https://github.com/cheesestudio/FemboyExam) | Femboy index test with radar chart |
+| Project | Language | Stars |
+|---------|----------|-------|
+| [bullet-hell-game](https://github.com/cheesestudio/bullet-hell-game) | HTML | ![](https://img.shields.io/github/stars/cheesestudio/bullet-hell-game?style=flat-square) |
+| [Tournament-Maker](https://github.com/cheesestudio/Tournament-Maker-system-for-vrchat) | C# | ![](https://img.shields.io/github/stars/cheesestudio/Tournament-Maker-system-for-vrchat?style=flat-square) |
+| [Gobang-for-VRChat](https://github.com/cheesestudio/Gobang-for-VRChat) | C# | ![](https://img.shields.io/github/stars/cheesestudio/Gobang-for-VRChat?style=flat-square) |
+| [bullet-hell-generator](https://github.com/cheesestudio/bullet-hell-generator) | JavaScript | ![](https://img.shields.io/github/stars/cheesestudio/bullet-hell-generator?style=flat-square) |
+| [FemboyExam](https://github.com/cheesestudio/FemboyExam) | JavaScript | ![](https://img.shields.io/github/stars/cheesestudio/FemboyExam?style=flat-square) |
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cheesestudio&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&show_icons=true&icon_color=58a6ff&include_all_commits=true&cache_bust=1" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheesestudio&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact&cache_bust=1" />
+  <img src="https://img.shields.io/badge/VRChat-Developer-FF6B00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Unity-Certified-000000?style=for-the-badge&logo=unity" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-4B0082?style=for-the-badge" />
 </p>
 
 ---
 
-## 🏆 Profile Trophy
+## 📈 Activity Highlights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cheesestudio&theme=monokai&no-bg=true&column=4" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=cheesestudio&theme=monokai&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" />
-</p>
-
----
-
-## 🗓️ Activity Graph
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=cheesestudio&theme=dracula&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true" />
+  <img src="https://img.shields.io/badge/Commits%20in%202026-50+-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Most%20Used%20Lang-C%23-239120?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Projects%20Built-15-181717?style=for-the-badge" />
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<p align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 📈 Profile Stats
-
-<p align="center">
-  <img src="https://visitor-badge.deta.dev?id=cheesestudio&spec=flat&fire=true&label=Profile%20Views&color=58a6ff&labelColor=0d1117&background=transparent" />
-  <img src="https://img.shields.io/github/followers/cheesestudio?style=for-the-badge&color=58a6ff&labelColor=0d1117" />
-</p>
+</div>
 
 ---
 
