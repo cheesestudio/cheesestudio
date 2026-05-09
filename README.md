@@ -52,17 +52,12 @@
 
 ## 📊 GitHub Stats
 
-<p>
-  <img src="https://img.shields.io/github/repos/cheesestudio?style=for-the-badge&logo=github&label=Repos" />
-  <img src="https://img.shields.io/github/stars/cheesestudio?style=for-the-badge&logo=github&label=Stars" />
-  <img src="https://img.shields.io/github/followers/cheesestudio?style=for-the-badge&logo=github&label=Followers" />
-  <img src="https://img.shields.io/github/forks/cheesestudio?style=for-the-badge&logo=github&label=Forks" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/github/last-commit/cheesestudio?style=for-the-badge&logo=github&label=Last%20Commit" />
-  <img src="https://img.shields.io/github/release-date/cheesestudio/cheesestudio?style=for-the-badge&logo=github" />
-</p>
+| Metric | Value |
+|--------|-------|
+| 📦 Repositories | 15 |
+| ⭐ Total Stars | 35+ |
+| 🍴 Forks | 3 |
+| 👥 Followers | 0 |
 
 ---
 
