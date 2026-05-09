@@ -117,6 +117,14 @@ I'm **Cheese Studio**, a Unity Game Developer specializing in VRChat world creat
 
 ---
 
+## 📈 Visitor Badge
+
+<div align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=cheesestudio" />
+</div>
+
+---
+
 <p align="center">
   <i>Built with ❤️ by <a href="https://github.com/cheesestudio">Cheese Studio</a></i>
 </p>
