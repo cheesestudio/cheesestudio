@@ -19,9 +19,6 @@
   <a href="mailto:cheesemost@outlook.com">
     <img src="https://img.shields.io/badge/Email-cheesemost-238636?style=for-the-badge&logo=microsoft-outlook" />
   </a>
-</p>
-
-<p>
   <img src="https://visitor-badge.glitch.me/badge?page_id=cheesestudio&color=orange" />
 </p>
 
@@ -49,6 +46,22 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity" />
   <img src="https://img.shields.io/badge/VRChat-FF6B00?style=for-the-badge&logo=vrchat" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://img.shields.io/github/repos/cheesestudio?style=for-the-badge&logo=github&label=Repos" />
+  <img src="https://img.shields.io/github/stars/cheesestudio?style=for-the-badge&logo=github&label=Stars" />
+  <img src="https://img.shields.io/github/followers/cheesestudio?style=for-the-badge&logo=github&label=Followers" />
+  <img src="https://img.shields.io/github/forks/cheesestudio?style=for-the-badge&logo=github&label=Forks" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/github/last-commit/cheesestudio?style=for-the-badge&logo=github&label=Last%20Commit" />
+  <img src="https://img.shields.io/github/release-date/cheesestudio/cheesestudio?style=for-the-badge&logo=github" />
 </p>
 
 ---
@@ -92,18 +105,6 @@
 | [AiPushMeMessage](https://github.com/cheesestudio/AiPushMeMessage) | AI message push tool |
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cheesestudio&theme=github_dark&hide_border=true&show_icons=true" />
-</p>
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cheesestudio&theme=xcode&bg_color=000000&hide_border=true" />
-</p>
 
 ## 🔥 GitHub Streak
 
