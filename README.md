@@ -88,7 +88,6 @@
 | [bullet-hell-game](https://github.com/cheesestudio/bullet-hell-game) | Cyberpunk bullet hell boss rush game |
 | [Tournament-Maker](https://github.com/cheesestudio/Tournament-Maker-system-for-vrchat) | VRChat tournament bracket system |
 | [Gobang-for-VRChat](https://github.com/cheesestudio/Gobang-for-VRChat) | Gobang game for VRChat |
-| [bullet-hell-generator](https://github.com/cheesestudio/bullet-hell-generator) | OMC Skill for generating bullet hell games |
 | [FemboyExam](https://github.com/cheesestudio/FemboyExam) | Femboy index test with radar chart |
 | [AiPushMeMessage](https://github.com/cheesestudio/AiPushMeMessage) | AI message push tool |
 
