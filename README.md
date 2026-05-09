@@ -117,6 +117,14 @@ I'm **Cheese Studio**, a Unity Game Developer specializing in VRChat world creat
 
 ---
 
+## 📊 Activity Graph
+
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=cheesestudio&theme=xcode" />
+</div>
+
+---
+
 ## 📈 Visitor Badge
 
 <div align="center">
