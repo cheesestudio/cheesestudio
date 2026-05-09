@@ -50,17 +50,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-| Metric | Value |
-|--------|-------|
-| 📦 Repositories | 15 |
-| ⭐ Total Stars | 35+ |
-| 🍴 Forks | 3 |
-| 👥 Followers | 0 |
-
----
-
 ## 📦 Featured Projects
 
 ### 🎱 VRChat Pool Table
